@@ -21,14 +21,14 @@ func dothings() error {
 		return err
 	}
 
-	if err = d.ParseCSSString(read("styles.css")); err != nil {
+	if err = d.ParseCSSFile("styles.css"); err != nil {
 		return err
 	}
 	pageSize, err := d.PageSize()
 	if err != nil {
 		return err
 	}
-	wd := pageSize.Width - 1*pageSize.MarginLeft - pageSize.MarginRight
+	wd := pageSize.Width - pageSize.MarginLeft - pageSize.MarginRight
 	x := pageSize.MarginLeft
 	y := pageSize.Height - pageSize.MarginTop
 
