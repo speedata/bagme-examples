@@ -21,7 +21,7 @@ func dothings() error {
 		return err
 	}
 
-	if err = d.ParseCSSFile("styles.css"); err != nil {
+	if err = d.ReadCSSFile("styles.css"); err != nil {
 		return err
 	}
 	pageSize, err := d.PageSize()
