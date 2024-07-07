@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/speedata/bagme/document"
+	"github.com/boxesandglue/bagme/document"
 )
 
 func read(filename string) string {

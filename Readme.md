@@ -1,4 +1,4 @@
-This repository contains ready-to-run examples for the [bagme](https://github.com/speedata/bagme) library.
+This repository contains ready-to-run examples for the [bagme](https://github.com/boxesandglue/bagme) library.
 
 Description  | Preview
 ------------ | -------------

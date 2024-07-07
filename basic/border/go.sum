@@ -6,10 +6,10 @@ github.com/andybalholm/cascadia v1.3.2/go.mod h1:7gtRlve5FxPPgIgX36uWBX58OdBsSS6
 github.com/benoitkugler/textlayout-testdata v0.1.1 h1:AvFxBxpfrQd8v55qH59mZOJOQjtD6K2SFe9/HvnIbJk=
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/speedata/bagme v0.0.0-20231122103953-256f1f9cad43 h1:eTjHeSrkU95qLt8IHwsDXxnPqcfn0IWV4ZS/9eAAthE=
-github.com/speedata/bagme v0.0.0-20231122103953-256f1f9cad43/go.mod h1:8K2cip1jpc+tSubAc4C3ZB9btTHy/5mysZiXIPs5NYw=
-github.com/speedata/baseline-pdf v0.0.0-20231122102911-d3b0bd534820 h1:7oxf+dMF062+vl2NXMOa9AEG2eQw5jo+UPh2QtbEeKE=
-github.com/speedata/baseline-pdf v0.0.0-20231122102911-d3b0bd534820/go.mod h1:ptfWHTOg/v3zstZUxF9DwET4q4NOMCGyzDvtm11SIWs=
+github.com/boxesandglue/bagme v0.0.0-20231122103953-256f1f9cad43 h1:eTjHeSrkU95qLt8IHwsDXxnPqcfn0IWV4ZS/9eAAthE=
+github.com/boxesandglue/bagme v0.0.0-20231122103953-256f1f9cad43/go.mod h1:8K2cip1jpc+tSubAc4C3ZB9btTHy/5mysZiXIPs5NYw=
+github.com/boxesandglue/baseline-pdf v0.0.0-20231122102911-d3b0bd534820 h1:7oxf+dMF062+vl2NXMOa9AEG2eQw5jo+UPh2QtbEeKE=
+github.com/boxesandglue/baseline-pdf v0.0.0-20231122102911-d3b0bd534820/go.mod h1:ptfWHTOg/v3zstZUxF9DwET4q4NOMCGyzDvtm11SIWs=
 github.com/speedata/boxesandglue v0.0.0-20231122103605-3435f2a32a56 h1:+amh8JA0yCZmRvnQpHfJrX7yd4IAe5i6hLC3eWvncJg=
 github.com/speedata/boxesandglue v0.0.0-20231122103605-3435f2a32a56/go.mod h1:aY9s4r8n11js7y/rUvPH9IZKjhENTbwp8TjhFigP/XE=
 github.com/speedata/css/scanner v0.0.0-20201005071706-2ed32c3ce553 h1:L9Sqi5S7G4JjODI5tZZ1IzZ7Yb4s71xFOq/uZtLv1Wg=
@@ -18,8 +18,8 @@ github.com/speedata/gofpdi v1.0.18 h1:LEiIN62ckZcA4n8AtBu16M2P2fBK3OnwpTGDfe13v/
 github.com/speedata/gofpdi v1.0.18/go.mod h1:aRZ6VjhFbzJWwCoHeKOdbUjImuf4GMVCJpwS9+bCYuM=
 github.com/speedata/hyphenation v1.0.1 h1:O9gKtVw2JvyiHybCYJwpB3zzHaeXEvDtXjiExZdm1TU=
 github.com/speedata/hyphenation v1.0.1/go.mod h1:vwrKKvBvJWFll0sVZw99hyWS/+r4YlMI7MAYjnje0nM=
-github.com/speedata/textlayout v0.0.0-20230827181055-b7ff752e85ae h1:WREBj80Ov1CmfmpLHyValOTcb2YhiHFBrdD2drUlfZM=
-github.com/speedata/textlayout v0.0.0-20230827181055-b7ff752e85ae/go.mod h1:5yI24VPA1OjAI56+oF5XzsbIgu2elJhwIDb5SWdniN8=
+github.com/boxesandglue/textlayout v0.0.0-20230827181055-b7ff752e85ae h1:WREBj80Ov1CmfmpLHyValOTcb2YhiHFBrdD2drUlfZM=
+github.com/boxesandglue/textlayout v0.0.0-20230827181055-b7ff752e85ae/go.mod h1:5yI24VPA1OjAI56+oF5XzsbIgu2elJhwIDb5SWdniN8=
 github.com/yuin/goldmark v1.4.13/go.mod h1:6yULJ656Px+3vBD8DxQVa3kxgyrAnzto9xy5taEt/CY=
 golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2/go.mod h1:djNgcEr1/C05ACkg1iLfiJU5Ep61QUkGW8qpdssI0+w=
 golang.org/x/crypto v0.0.0-20210921155107-089bfa567519/go.mod h1:GvvjBRRGRdwPK5ydBHafDWAxML/pGHZbMvKqRZ5+Abc=
