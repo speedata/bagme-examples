@@ -11,7 +11,7 @@ require (
 	github.com/boxesandglue/baseline-pdf v0.0.0-20231122102911-d3b0bd534820 // indirect
 	github.com/boxesandglue/boxesandglue v0.0.0-20231122103605-3435f2a32a56 // indirect
 	github.com/speedata/css/scanner v0.0.0-20201005071706-2ed32c3ce553 // indirect
-	github.com/speedata/gofpdi v1.0.18 // indirect
+	github.com/boxesandglue/gofpdi v1.0.18 // indirect
 	github.com/speedata/hyphenation v1.0.1 // indirect
 	github.com/boxesandglue/textlayout v0.0.0-20230827181055-b7ff752e85ae // indirect
 	golang.org/x/image v0.7.0 // indirect
